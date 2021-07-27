@@ -1,0 +1,3 @@
+create database Zulyadi;
+create table RSMH;
+ALTER TABLE RSMH ADD nama varchar (25);
