@@ -1,3 +1,4 @@
 create database Zulyadi;
 create table RSMH;
 ALTER TABLE RSMH ADD nama varchar (25);
+ALTER TABLE RSMH ADD pekerjaan varchar (25);
